@@ -11,5 +11,9 @@ public class Atelier {
 		System.out.println();
 		
 	}
+	
+	public void reset(){
+		
+	}
 
 }
