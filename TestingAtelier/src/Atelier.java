@@ -7,6 +7,8 @@ public class Atelier {
 	
 	public void countPartipant(){
 		
+		System.out.println();
+		
 	}
 
 }
