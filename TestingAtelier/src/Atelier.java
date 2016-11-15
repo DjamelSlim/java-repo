@@ -3,7 +3,6 @@ public class Atelier {
 	
 	
 	private String toto;
-	private String tata;
 	
 	private String tata;
 	
