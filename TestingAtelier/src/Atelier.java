@@ -9,7 +9,7 @@ public class Atelier {
 
 	
 	public void countPartipant(){
-		
+		System.out.println("modification dans la branche distante");
 		System.out.println();
 		System.out.println("modification en local");
 		
