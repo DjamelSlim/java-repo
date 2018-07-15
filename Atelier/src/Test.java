@@ -5,4 +5,9 @@ public class Test {
 
 	private String toto;
 
+	public  String methodInLoacal(){
+
+	    return "local";
+    }
+
 }
