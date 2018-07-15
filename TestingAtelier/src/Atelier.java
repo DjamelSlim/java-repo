@@ -13,7 +13,7 @@ public class Atelier {
 		System.out.println();
 		
 	}
-	
+	//commentaire
 	public void reset(){
 		
 	}
