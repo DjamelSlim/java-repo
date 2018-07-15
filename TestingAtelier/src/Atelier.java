@@ -19,5 +19,8 @@ public class Atelier {
 	public void reset1(){
 		
 	}
+	
+	public nouvelleMethode(){
+	}
 
 }
