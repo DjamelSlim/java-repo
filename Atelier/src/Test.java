@@ -5,14 +5,16 @@ public class Test {
 
 	private String toto;
 
-	private String methode(){
 
-		return "correction";
-	}
 
 	public  String methodInLoacal(){
 
 	    return "local";
+    }
+
+    public String methode(){
+
+        return  "correction";
     }
 
 }
