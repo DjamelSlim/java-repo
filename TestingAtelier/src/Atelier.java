@@ -8,14 +8,19 @@ public class Atelier {
 	
 
 	
-	public void countPartipant(){
-		
+
+	public void countParPartipant(){
+		System.out.println("modification dans la branche distante");
 		System.out.println();
+		System.out.println("modification en local");
+		
+	}
+	//commentaire
+	public void reset1(){
 		
 	}
 	
-	public void reset(){
-		
+	public nouvelleMethode(){
 	}
 
 }
