@@ -11,6 +11,7 @@ public class Atelier {
 	public void countPartipant(){
 		
 		System.out.println();
+		System.out.println("modification en local");
 		
 	}
 	//commentaire
