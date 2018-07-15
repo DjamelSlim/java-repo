@@ -8,6 +8,7 @@ public class Atelier {
 	
 
 	
+
 	public void countParPartipant(){
 		System.out.println("modification dans la branche distante");
 		System.out.println();
