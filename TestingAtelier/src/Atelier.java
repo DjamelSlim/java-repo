@@ -4,6 +4,8 @@ public class Atelier {
 
 		
 	private String tata;
+	
+	private String tata;
 
 	
 
