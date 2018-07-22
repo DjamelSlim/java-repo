@@ -8,8 +8,4 @@ public class TestingUnit {
   private void toto(){
       
   }
-
-  private void tata(){
-      
-  }
 }
