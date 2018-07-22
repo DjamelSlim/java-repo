@@ -4,7 +4,8 @@ public class TestingUnit {
 
   private void method(){
       System.out.print("autre modif");
-      
+      System.out.print("modif dist");
+
   }
   private void toto(){
       System.out.print("tata");
