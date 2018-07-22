@@ -5,4 +5,7 @@ public class TestingUnit {
   private void method(){
       
   }
+  private void toto(){
+      
+  }
 }
