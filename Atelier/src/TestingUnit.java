@@ -3,7 +3,7 @@ public class TestingUnit {
   private String commit1;
 
   private void method(){
-      
+      System.out.print("modif dist");
   }
   private void toto(){
       System.out.print("tata");
