@@ -5,7 +5,7 @@ public class Assurance {
   private Integer age;
 
   public String MethodeRemout(){
-    return "remout"
+    return "remout";
   }
 
 }
