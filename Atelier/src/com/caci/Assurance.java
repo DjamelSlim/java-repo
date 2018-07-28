@@ -4,8 +4,8 @@ public class Assurance {
   private String test;
   private Integer age;
 
-  public void assureMe(){
-
-
+  public String MethodeRemout(){
+    return "remout"
   }
+
 }
