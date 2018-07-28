@@ -7,8 +7,21 @@ public class TestingUnit {
       System.out.print("modif dist");
 
   }
-  private void toto(){
+
+    public String getField() {
+        return field;
+    }
+
+    public void setField(String field) {
+        this.field = field;
+    }
+
+    private void toto(){
+      TestingUnit test = new TestingUnit();
+
+
       System.out.print("tata");
     System.out.println("remote");
+
   }
 }
