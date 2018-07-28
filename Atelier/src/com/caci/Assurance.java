@@ -7,11 +7,7 @@ public class Assurance {
   
   public String MethodeRemout(){
     Integer tata;
-    String roro;
-    return "remout";
-
+    return "remout"
   }
 
-  public void ajout(String tata) {
-  }
 }
