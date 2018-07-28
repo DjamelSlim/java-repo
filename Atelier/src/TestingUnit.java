@@ -11,6 +11,7 @@ public class TestingUnit {
   }
 
     public String getField() {
+        System.out.print("mdif dans git");
         return field;
     }
 
