@@ -1,6 +1,6 @@
 public class LocalFile {
 
-  private String "modifDistant";
+  private String tata = "modifDistant";
 
     private String local;
 }
