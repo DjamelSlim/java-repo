@@ -1,26 +1,26 @@
 
 public class Test {
-	
-	private String tata;
 
-	private String toto;
-	
-	private String lolo;
+    private String tata;
 
-     public  String methodSurGit(){
+    private String toto;
 
-	    return "git";
+    private String lolo;
+
+    public String methodSurGit() {
+// commentaire dans method
+        return "git";
     }
 
 
-	public  String methodInLoacal(){
+    public String methodInLoacal() {
 
-	    return "local";
+        return "local";
     }
 
-    public String methode(){
+    public String methode() {
 
-        return  "correction";
+        return "correction";
     }
 
 }
