@@ -6,5 +6,6 @@ public class Assurance {
 
   public void assureMe(){
 
+
   }
 }
