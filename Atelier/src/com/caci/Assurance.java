@@ -9,6 +9,7 @@ public class Assurance {
     Integer tata;
     String roro;
     return "remout";
+
   }
 
   public void ajout(String tata) {
