@@ -1,15 +1,19 @@
 public class LocalFile {
 
-  private String toto = "modifDistant";
+    private String toto = "modifDistant";
 
 
     private String local;
-  private String autreRemout;
+    private String autreRemout;
 
     public void methodRemote() {
 
-      String unAttribut;
+        String unAttribut;
 
+
+    }
+
+    public void newMethod(){
 
     }
 }
