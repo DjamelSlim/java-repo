@@ -6,6 +6,10 @@ public class Test {
 	private String toto;
 
 
+	public  String methodSurGit(){
+
+	    return "git";
+         }
 
 	public  String methodInLoacal(){
 
