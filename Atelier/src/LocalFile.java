@@ -1,6 +1,7 @@
 public class LocalFile {
 
-    private String tata = "modifDistant";
+  private String toto = "modifDistant";
+
 
     private String local;
   private String autreRemout;
