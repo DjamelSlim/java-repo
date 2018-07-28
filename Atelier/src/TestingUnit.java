@@ -5,6 +5,7 @@ public class TestingUnit {
   private void method(){
       System.out.print("autre modif");
       System.out.print("modif dist");
+      System.out.print("modif autre");
 
   }
 
