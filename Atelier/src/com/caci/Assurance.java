@@ -7,7 +7,8 @@ public class Assurance {
   
   public String MethodeRemout(){
     Integer tata;
-    return "remout"
+    String roro;
+    return "remout";
   }
 
 }
