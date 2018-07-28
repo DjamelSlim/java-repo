@@ -7,6 +7,8 @@ public class LocalFile {
 
     public void methodRemote() {
 
+      String unAttribut;
+
 
     }
 }
