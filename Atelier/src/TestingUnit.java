@@ -11,7 +11,8 @@ public class TestingUnit {
   }
 
     public String getField() {
-        System.out.print("mdif dans git");
+        System.out.print("autre modif");
+      System.out.print("autre modif");
         return field;
     }
 
