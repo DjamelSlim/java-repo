@@ -7,6 +7,7 @@ public class TestingUnit {
       System.out.print("modif dist");
       Integer tata = 20;
       System.out.print("modif autre");
+      System.out.print("en local");
 
   }
 
