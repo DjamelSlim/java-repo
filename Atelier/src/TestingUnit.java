@@ -12,6 +12,8 @@ public class TestingUnit {
 
     public String getField() {
         System.out.print("modif dans getField");
+        System.out.print("autre modif");
+      System.out.print("autre modif");
         return field;
     }
 
