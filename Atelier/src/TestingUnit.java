@@ -41,4 +41,8 @@ public class TestingUnit {
         System.out.println("remote");
 
     }
+
+    public void newMethode(){
+
+    }
 }
