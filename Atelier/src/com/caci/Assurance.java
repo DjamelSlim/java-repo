@@ -12,4 +12,6 @@ public class Assurance {
 
   }
 
+  public void ajout(String tata) {
+  }
 }
