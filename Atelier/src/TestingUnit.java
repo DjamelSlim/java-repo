@@ -3,8 +3,6 @@ import com.caci.Assurance;
 public class TestingUnit {
   private String field;
   private String commit1;
-  private String git;
-  private String autreChampgit;
 
   private void method(){
       System.out.print("autre modif");
