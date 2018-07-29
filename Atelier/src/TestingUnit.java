@@ -15,12 +15,6 @@ public class TestingUnit {
 
   }
 
-    public static void main(String[] args) {
-        Assurance assurance = new Assurance();
-        String s = assurance.MethodeRemout();
-        assurance.ajout("tata");
-
-    }
     public String getField() {
         System.out.print("modif dans getField");
         System.out.print("autre modif");
