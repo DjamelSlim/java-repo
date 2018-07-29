@@ -11,4 +11,6 @@ public class Assurance {
     return "remout";
   }
 
+  public void ajout(String tata) {
+  }
 }
