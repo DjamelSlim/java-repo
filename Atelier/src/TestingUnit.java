@@ -1,6 +1,7 @@
 public class TestingUnit {
   private String field;
   private String commit1;
+  private String git;
 
   private void method(){
       System.out.print("autre modif");
