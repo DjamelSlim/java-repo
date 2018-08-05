@@ -8,7 +8,13 @@ public class Assurance {
   public String MethodeRemout(){
     String remout = "REMOUT";
     Integer tata;
-    return "remout"
+    return "remout";
   }
+
+  public String getToto(){
+    return "toto";
+  }
+
+
 
 }
