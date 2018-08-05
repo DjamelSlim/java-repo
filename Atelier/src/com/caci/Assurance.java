@@ -6,6 +6,7 @@ public class Assurance {
   private Double interet;
   
   public String MethodeRemout(){
+    String remout = "REMOUT";
     Integer tata;
     return "remout"
   }
