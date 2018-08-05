@@ -12,6 +12,7 @@ public class Assurance {
   }
 
   public String getToto(){
+    //ajout commentaire
     return "toto";
   }
 
