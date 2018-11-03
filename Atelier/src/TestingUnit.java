@@ -1,5 +1,5 @@
 public class TestingUnit {
-  private String field;
+  private String field1;
   private String commit1;
   private String git;
   private String autreChampgit;
