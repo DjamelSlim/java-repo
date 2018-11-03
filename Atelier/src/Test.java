@@ -27,4 +27,9 @@ public class Test {
 
     }
 
+
+    public void newmethode(){
+
+    }
+
 }
