@@ -7,6 +7,8 @@ public class Test {
 
 	private String lolo;
 
+	private Integer afeterComparaison;
+
 
 	public  String methodSurGit(){
 
