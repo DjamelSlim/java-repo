@@ -7,8 +7,6 @@ public class Test {
 
 	private String lolo;
 
-	private Integer age;
-
 
 	public  String methodSurGit(){
 
