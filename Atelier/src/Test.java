@@ -1,7 +1,7 @@
 
 public class Test {
 	
-	private String tataia;
+	
 
 	private String toto;
 
@@ -26,6 +26,11 @@ public class Test {
 
 
     public void autreMethodDansDevelop(){
+
+    }
+
+
+    public void newmethode(){
 
     }
 
