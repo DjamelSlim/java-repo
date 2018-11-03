@@ -1,7 +1,7 @@
 
 public class Test {
 	
-	private String tataia;
+	
 
 	private String toto;
 
