@@ -1,15 +1,15 @@
 
 public class Test {
 	
-	
+	private String toDelete;
 
 	private String toto;
 
 	private String lolo;
 
 
-
 	public  String methodSurGit(){
+
 
 	    return "git";
          }
@@ -33,5 +33,7 @@ public class Test {
     public void newmethode(){
 
     }
+
+
 
 }
